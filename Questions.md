@@ -23,3 +23,4 @@ Questions:
 21. Count Number of Action Movies
 22. Find Unique Values From Genre 
 23. How Many Films of Each Genre Were Made?
+
